@@ -1,3 +1,3 @@
 # connec-react-with-django
 
-inpirated geek for geeks
+inpired by geek-for-geeks
